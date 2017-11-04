@@ -5,7 +5,6 @@
 
 .header {
   background-color: #ff719c;
-  line-height: 1.2;
 }
 
 .header_text-style {
@@ -13,7 +12,21 @@
   font-family: "Arial", "Helvetica";
 }
 
+.header_text-padding {
+  padding-top: 75px;
+  padding-bottom: 55px; 
+}
+
+.header_slogan-margin-top {
+  margin-top: 0;
+}
+
 .main_text-style {
   line-height: 34px;
   font-family: "Arial", "Helvetica";
 }
+
+.main_padding-top {
+  padding-top: 50px;
+}
+
