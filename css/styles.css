@@ -1,0 +1,19 @@
+.font-style {
+  font-size: 22px;
+  font-family: "Arial", "Helvetica";
+}
+
+.header {
+  background-color: #ff719c;
+  line-height: 1.2;
+}
+
+.header_text-style {
+  color: #ffffff;
+  font-family: "Arial", "Helvetica";
+}
+
+.main_text-style {
+  line-height: 34px;
+  font-family: "Arial", "Helvetica";
+}
